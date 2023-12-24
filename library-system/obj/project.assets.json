@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\renat\\.nuget\\packages\\": {}
+    "/Users/edgarsousa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Lptrabalho 2024 23-12-23_hora_19h19\\Lptrabalho 2024 23-12-23_hora_19h19\\Lptrabalhopratico.csproj",
+      "projectUniqueName": "/Users/edgarsousa/Desktop/library-system/library-system/Lptrabalhopratico.csproj",
       "projectName": "Lptrabalhopratico",
-      "projectPath": "C:\\Users\\renat\\Desktop\\Lptrabalho 2024 23-12-23_hora_19h19\\Lptrabalho 2024 23-12-23_hora_19h19\\Lptrabalhopratico.csproj",
-      "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\Desktop\\Lptrabalho 2024 23-12-23_hora_19h19\\Lptrabalho 2024 23-12-23_hora_19h19\\obj\\",
+      "projectPath": "/Users/edgarsousa/Desktop/library-system/library-system/Lptrabalhopratico.csproj",
+      "packagesPath": "/Users/edgarsousa/.nuget/packages/",
+      "outputPath": "/Users/edgarsousa/Desktop/library-system/library-system/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/edgarsousa/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

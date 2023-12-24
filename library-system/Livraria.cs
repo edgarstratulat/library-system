@@ -144,6 +144,10 @@ namespace Lptrabalhopratico
                     Atualizarlivro();
                     break;
 
+                case "3":
+                    ConsultarCodigo();
+                    break;
+
                 default:
                     Console.WriteLine("Opção inválida!");
                     break;
@@ -286,6 +290,7 @@ namespace Lptrabalhopratico
         // Criação de um método para cosultar informações de livro pelo seu código
         public void ConsultarCodigo()
         {
+            Console.WriteLine("\nOpção 3 Escolhida | CONSULTAR LIVROS ATRÁVES DO CÓDIGO\n");
             //recurso ao try-catch para lidar com exceções
             try
             {
@@ -300,6 +305,7 @@ namespace Lptrabalhopratico
                     //Recurso ao 'if' para encerrar o programa, caso o utilizador digite 'sair'
                     if (code == "sair")
                     {
+                        Console.WriteLine("\nSaíste do Sistema");
                         break;
                     }
                     //criação de variavel livro para armazenar o resultado pela busca do livro na lista
