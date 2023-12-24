@@ -28,10 +28,14 @@ This is a book management system developed in C# using the .NET framework and AS
 2. **Stocker:** Manages the inventory by adding new books, updating stock levels, and checking stock information.
 3. **Cashier:** Handles transactions, book sales, and revenue tracking.
 
+## System Language
+
+The system is translated into Portuguese (PT).
+
 ## System Requirements
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
-- [Visual Studio](https://visualstudio.microsoft.com/) (optional but recommended for development)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) (recommended for development)
 
 ## Installation
 
