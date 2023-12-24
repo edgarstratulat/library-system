@@ -1,0 +1,88 @@
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.AssemblyReference.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.exe
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 21-12-2023 hora_21h20/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.AssemblyReference.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.exe
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+C:/Users/renat/Desktop/Lptrabalho 2024 23.12.2023 hora_00h52/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.AssemblyReference.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+/Users/edgarsousa/Downloads/Lptrabalho 2024 23.12.2023 hora_11h35/Lptrabalho 2024 22.12.2023 hora_11h38/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.deps.json
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.runtimeconfig.json
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/bin/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.AssemblyReference.cache
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfoInputs.cache
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.AssemblyInfo.cs
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.csproj.CoreCompileInputs.cache
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.dll
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/refint/Lptrabalhopratico.dll
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.pdb
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/Lptrabalhopratico.genruntimeconfig.cache
+/Users/edgarsousa/Desktop/Lptrabalho 2024 21-12-2023 2/obj/Debug/net6.0/ref/Lptrabalhopratico.dll
