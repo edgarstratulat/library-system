@@ -32,6 +32,10 @@ This is a book management system developed in C# using the .NET framework and AS
 
 The system is translated into Portuguese (PT).
 
+## System Status
+
+Please note that the system is not 100% complete. Contributions, improvements, and bug fixes are welcome.
+
 ## System Requirements
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
