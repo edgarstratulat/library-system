@@ -71,7 +71,6 @@ namespace Lptrabalhopratico
 
 
         #region Utilizadores/Login
-
         //Criação de um método para um Sistema de Login do Utilizador (número de utilizador UserId e password)
         public void EntrarUtilizador()
         {
@@ -103,6 +102,14 @@ namespace Lptrabalhopratico
                 Console.WriteLine("Erro! Introduza números.");
             }
         }
+
+       public void MudarUtilizador()
+       {
+            Console.Clear();
+            Console.WriteLine("Opção 11 Selecionada | TERMINAR SESSÃO/MUDAR DE UTILIZADOR");
+            Console.WriteLine("\nTerminaste Sessão. Entra outra vez!\n");
+            EntrarUtilizador();
+       }
 
         #endregion
 
@@ -148,6 +155,14 @@ namespace Lptrabalhopratico
                     ConsultarCodigo();
                     break;
 
+                case "11":
+                    MudarUtilizador();
+                    break;
+
+                case "12":
+                    Console.WriteLine("\nSaíste do Sistema");
+                    break;
+
                 default:
                     Console.WriteLine("Opção inválida!");
                     break;
@@ -164,6 +179,7 @@ namespace Lptrabalhopratico
         //Metodo para registar um novo livro
         public void RegistarLivro()
         {
+            // Frase para mostrar a opção escolhida
             Console.WriteLine("\nOpção 1 Escolhida | REGISTAR LIVRO\n");
             //instanciar um novo objeto da classe Livraria para registar um novo livro
             Livraria registarlivro = new Livraria();
@@ -290,6 +306,7 @@ namespace Lptrabalhopratico
         // Criação de um método para cosultar informações de livro pelo seu código
         public void ConsultarCodigo()
         {
+            // Frase para mostrar a opção escolhida
             Console.WriteLine("\nOpção 3 Escolhida | CONSULTAR LIVROS ATRÁVES DO CÓDIGO\n");
             //recurso ao try-catch para lidar com exceções
             try
