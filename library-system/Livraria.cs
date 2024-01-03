@@ -183,6 +183,10 @@ namespace Lptrabalhopratico
                     ConsultarVendasReceitas();
                     break;
 
+                case "10":
+                    ListarUtilizador();
+                    break;
+
                 case "11":
                     MudarUtilizador();
                     break;
@@ -692,6 +696,22 @@ namespace Lptrabalhopratico
         #endregion
 
 
+        #region ListarUtilizadores
+        public void ListarUtilizador()
+        {
+            // Frase para mostrar a opção escolhida
+            Console.WriteLine("Opção 10 Escolhida | LISTAR UTILIZADORES DO SISTEMA ");
+
+            //Recurso à estrutura 'foreach' para iterar os elementos da nossa lista ('Utilizador') que se encontra dentro da nossa classe 'Livraria'
+            //Durante a iteração, cada objeto é representado por 'user'
+            foreach (Livraria user in Utilizador)
+            {
+                //dá informações dos utilizadores do sistema
+                Console.WriteLine($"ID de utilizador: {user.UserId} | Password: {user.Password} | Função: {user.Funcao}.");
+            }
+        }
+
+        #endregion
 
 
 
