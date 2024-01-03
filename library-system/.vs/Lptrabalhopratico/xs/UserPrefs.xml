@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C4FCD71F-7009-4102-93A6-2924024B4EC3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lptrabalhopratico PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Livraria.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Livraria.cs" Line="352" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lptrabalhopratico" expanded="True">
+            <Node name="Lptrabalhopratico" expanded="True">
+              <Node name="Livraria.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
