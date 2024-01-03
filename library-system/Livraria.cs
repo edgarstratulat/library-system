@@ -97,13 +97,14 @@ namespace Lptrabalhopratico
                 }
                 else
                 {
-                    Console.WriteLine("Falha no Login. Número de Utilizador ou password incorretos.");
+                    Console.WriteLine("\nFalha no Login. Número de Utilizador ou password incorretos.");
+                    return;
                 }
-            }
 
+            }
             catch (FormatException)
             {
-                Console.WriteLine("Erro! Introduza números.");
+                Console.WriteLine("\nErro! Introduza números.");
             }
         }
 
@@ -188,7 +189,7 @@ namespace Lptrabalhopratico
                     break;
 
                 case "11":
-                    MudarUtilizador();
+                    CriarRemoverUtilizador();
                     break;
 
                 case "12":
@@ -714,7 +715,65 @@ namespace Lptrabalhopratico
         #endregion
 
 
+        #region Criar/RemoverUtilizadores
+        public void CriarRemoverUtilizador()
+        {
+            Console.WriteLine("\nOpção 11 Escolhida | CRIAR / REMOVER UTILIZADORES\n");
+            Console.WriteLine("Escolha uma opção (Criar ou Remover e Sair para encerrar): ");
+            string Opcao = Convert.ToString(Console.ReadLine());
 
+            while (true)
+            {
+                //Se a opção for igual a criar, começa a criação do utilizador
+                if (Opcao == "Criar")
+                {
+                    Livraria novoutilizador = new Livraria();
+                    Console.Write("Número de Utilizador: ");
+                    novoutilizador.UserId = Convert.ToInt32(Console.ReadLine());
+                    if (novoutilizador.UserId == 0)
+                    {
+                        return;
+                    }
+                    Console.Write("Função: ");
+                    novoutilizador.Funcao = Convert.ToString(Console.ReadLine());
+                    Console.Write("Password: ");
+                    novoutilizador.Password = Convert.ToString(Console.ReadLine());
+                    Console.WriteLine("\nUtilizador criado com sucesso!");
+
+                    Console.WriteLine("Número de Utilizador: " + novoutilizador.UserId + " | Função: " + novoutilizador.Funcao + " | " + "Password: " + novoutilizador.Password + "\n");
+
+                    Utilizador.Add(novoutilizador);
+
+                    EntrarUtilizador();
+
+                }
+                //Se a opção for igual a remover, pede o id do utilizador que quer remover e no fim, o programa remove o utilizador com o id que o gerente colocou
+                else if (Opcao == "Remover")
+                {
+                    Console.WriteLine("Insira o ID do utilizador que deseja remover: ");
+                    int idRemover = Convert.ToInt32(Console.ReadLine());
+
+                    for (int i = 0; i < Utilizador.Count; i++)
+                    {
+                        if (Utilizador[i].UserId == idRemover)
+                        {
+                            Utilizador.RemoveAt(i);
+                            Console.WriteLine("Utilizador removido com sucesso!");
+                            EntrarUtilizador();
+                            return;
+                        }
+                    }
+
+                    Console.WriteLine("Utilizador não encontrado com esse ID.");
+                }
+                else if (Opcao == "Sair")
+                {
+                    break;
+                }
+            }
+        }
+
+        #endregion
 
     }
 
